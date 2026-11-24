@@ -10,7 +10,6 @@
 Python3.10｜FastAPI｜LangGraph｜Milvus｜Redis｜sqlparse｜BGE-Rerank｜Docker-Compose
 
 ## 架构图
-（等后面画好架构图上传到docs文件夹后，在这里填图片路径）
 - 客服Agent架构图：`./docs/customer_agent_arch.png`
 - BI-NL2SQL Agent架构图：`./docs/bi_agent_arch.png`
 
